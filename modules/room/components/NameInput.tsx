@@ -60,9 +60,9 @@ const NameInput = () => {
       onSubmit={handleJoinRoom}
     >
       <h1 className="text-5xl font-extrabold leading-tight sm:text-extra">
-        Collabio
+        Digisketch
       </h1>
-      <h3 className="text-xl sm:text-2xl">Real-time whiteboard</h3>
+      <h3 className="text-xl sm:text-2xl">Real-Time Interactive Whiteboard</h3>
 
       <div className="mt-10 mb-3 flex flex-col gap-2">
         <label className="self-start font-bold leading-tight">
